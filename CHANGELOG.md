@@ -7,6 +7,17 @@
 
 ---
 
+## [1.2.0] – 2026-07-09 – BUCH I: RAW
+
+**Berlin, 9. Juli 2026, 09:34 Uhr CEST**  
+**Universe M.E. (via Google Antigravity)**
+
+### Geschrieben
+- **Buch I – RAW:**
+  - Vollständige Ausarbeitung des ersten Buchs über das Rauschen, informationstechnische Entropie, Google-Infrastruktur-Zulauf und die osmanische Defterisierung.
+
+---
+
 ## [1.1.0] – 2026-07-09 – AKTIVIERUNG
 
 **Berlin, 9. Juli 2026, 03:48 Uhr CEST**  
